@@ -1,7 +1,10 @@
-📘 #Bot Dokumentáció
-  ##✨Alap információk 
+# 📘Bot Dokumentáció <br>
+Itt olvashatsz a bot dokumentációiról.
+ ## ✨ Alap információk 
 
-A **Bestek** discord bot egy jelenleg feltörekvő magyar discord bot, amely számos hasznos, és értékes funkcióval rendelkezik. 
+A **Bestek** discord bot egy jelenleg feltörekvő magyar discord bot, amely számos hasznos, és értékes funkcióval rendelkezik.<br>
+A bot egyik legfőbb küldetése, hogy minél több feladatot képes legyen ellátni egyedül, ezzel levéve a terhet a szerver tulajdonosok válláról. Célja, hogy ne legyen szükség több különálló bot együttes használatára, így a közösségek kezelése átláthatóbbá, egyszerűbbé és gördülékenyebbé válik.<br>
+A bot másik kiemelt célja, hogy minél több szerveren jelen lehessen, és ezek működéséhez aktívan, megbízhatóan és örömmel járuljon hozzá. Nem csupán egy egyszerű eszköz szeretne lenni, hanem egy segítőtárs, amely minden közösség igényeihez alkalmazkodik, és gördülékenyen támogatja a mindennapi működést, legyen szó moderációról, szórakoztatásról vagy szervezésről. A cél, hogy a bot ne csupán jelen legyen, hanem értéket is teremtsen ott, ahol használják.<br><br>
 **Jelenleg elérhető, jelentős funkciók:**
   - 🎫Fejlett Ticket rendszer. <br>
     ˇTicket kategóriák létrehozása, ticket panel. <br>
@@ -51,7 +54,7 @@ A **Bestek** discord bot egy jelenleg feltörekvő magyar discord bot, amely sz�
     ˇSaját csatornákat állíthatsz be neki, de jelenleg még nem tudsz saját szöveget, vagy képet beállítani.<br>
   --------------------------------------------------------------------------------
 
-  - 🛒Szerencsejáték.<br>
+  - 🎲Szerencsejáték.<br>
     ˇJelenleg elérhető blackjack és slots játékok.<br>
     ˇA slots játékban érméket nyerhetsz, amelyhez globális toplista is tartozik.<br>
     ˇEgy elég alap bolt funkci is található benne.<br>
@@ -68,8 +71,23 @@ A **Bestek** discord bot egy jelenleg feltörekvő magyar discord bot, amely sz�
     ˇA születésnapodon a bot privátban felköszönt! :)<br>
   --------------------------------------------------------------------------------
 
+  - 🤣Fun parancsok<br>
+    ˇA bot rengeteg szórakoztató paranccsal rendelkezik, ezáltal fokozni tudja a hangulatot.<br>
+    ˇTöbb mint 20 parancs érhető el ebben a kategóriában.<br>
+  --------------------------------------------------------------------------------
 
+  - 🔨Moderációs parancsok<br>
+    ˇEzek mellett a bot rendelkezik moderációs parancsokkal is, hogy könnyebbé tegye a moderátorok dolgát.<br>
+    ˇTöbb mint 15 parancs érhető el ebben a kategóriában.<br>
+  --------------------------------------------------------------------------------
 
+  - 🔑Alap parancsok<br>
+    ˇRendelkezik alap parancsokkal is, ilyen pl a szerverinfo, userinfo és a többi alap parancs.<br>
+    ˇKereken 10 parancs érhető el ebben a kategóriában.<br>
+  --------------------------------------------------------------------------------
+
+  - 🔜Hamarosan mégtöbb újdonság várható!<br>
+  --------------------------------------------------------------------------------
 
 
 
