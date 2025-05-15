@@ -37,7 +37,7 @@ Szintek társuló xp szükségletek<br>
 | 29    | 2900         | 0           |
 | 30    | 3000         | 0           |
 | 100    | 10000         | 0           |
-| 1000    | 10000         | 0           |
+| 1000    | 100000         | 0           |
 
 A szinteknél nincs maximum szint megadva, és ezt a rendet követi az összes szint.<br><br>
 ## 🛠Szintrendszer Konfigurálása
