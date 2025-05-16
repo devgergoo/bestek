@@ -61,10 +61,17 @@ A szinteknél nincs maximum szint megadva, és ezt a rendet követi az összes s
 ## 🤖Bot számára szükséges jogok a szintrendszer müködéséhez
   - (Ajánlott jogosultság az **adminisztrátor**.)
   - Csatornák megtekintése
-  - Üzenetek küldése
-(Ettől független a privát csatornákhoz külön-külön hozzá kell add a botot ha nem kap adminisztrátor jogot.
+  - Üzenetek küldése<br>
+(Ettől független a privát csatornákhoz külön-külön hozzá kell add a botot ha nem kap adminisztrátor jogot.)<br><br>
 
+## 📁Tárolt adatok
+  - Ha nincs beállítva a szint rendszer akkor addig semmit nem tárol.
+  - Ha konfigurálod a szintrendszert, akkor mentésre kerülnek az alábbi adatok: szerver ID, a csatorna ID amelyekre a bot kiírja a szintlépési üzeneteket, **HA** állítottál be saját üzenetet akkor az üzenet szövege, **HA** állítottál be a szintekhez rangot akkor a rang ID és a szint mentésre kerül, **HA** állítottál be  bónusz xp-t kapó rangot, akkor a rang ID és a mennyiség mentésre kerül.
+  - Ezeken kívül pedig még mentésre kerül minden a szerveren üzenetet hagyó felhasználó ID-ja azután hogy be lett kapcsolva a szintrendszer. Ez nyilván azért van, hogy felhasználónként nyomon tudja követni a hozzájuk rendelt xp-t és a szintet a bot.
+  - A bot **SEMMILYEN** üzenetet nem ment, csak az érte járó xp-t írja jóvá a felhasználónak.<br>
+  - Ha a bot eltávolításra kerül a szerverről, de be volt kapcsolva a szintrendszer az adatok nem törlődnek.
 
-
+**Ezek az adatok kérésre bármikor eltávolíthatók**
+Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
 
 
