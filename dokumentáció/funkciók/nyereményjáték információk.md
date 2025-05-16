@@ -28,7 +28,7 @@ kezelni, és egyben résztvenni is rajta. Ennek köszönhetően saját magadnak 
   - Csatornák megtekintése
 
 ## 📁Tárolt adatok
-  - A bot az alábbiakat tárolja el a nyereményjátékokról: Szerver ID, Üzenet(giveaway_id) ID, csatorna ID, nyeremény, nyereményjáték leírása, nyertesek száma, létrehozás ideje, nyereményjáték végének ideje, nyereményátéknak vége van-e?(rerollhoz)
+  - A bot az alábbiakat tárolja el a nyereményjátékokról: Szerver ID, Üzenet(giveaway_id) ID, csatorna ID, nyeremény, nyereményjáték leírása, nyertesek száma, létrehozás ideje, nyereményjáték végének ideje, nyereményátéknak vége van-e?(rerollhoz.)
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.**
 Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
