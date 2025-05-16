@@ -2,12 +2,12 @@
 Itt olvashatsz a bot dokumentációiról. Azon belül is a fehérlistáról(whitelist).<br>
 ## 📊Fehérlista felépítése<br>
 A fehérlista egy olyan funkció amely lezárja a szervered, és senkit nem enged csatlakozni. Ez pl akkor lehet hasznos, ha szerver átalakitáson megy át, stb... 
-Természetesen hozzá tudsz adni embereket ehhez a fehérlistáról, így ők képesek lesznek belépni a szerverre, mivel őket nem fogja a bot eltávolítani aszerverről.
+Természetesen hozzá tudsz adni embereket ehhez a fehérlistáról, így ők képesek lesznek belépni a szerverre, mivel őket nem fogja a bot eltávolítani aszerverről.<br>
 ![image](https://github.com/user-attachments/assets/988a2330-c585-47c8-b584-75b868a98e00)
 
 ## 🛠Fehérlista Konfigurálása
 1- A fehérlista konfigurálása elég egyszerű, az első lépéshez be kell írd a `/whitelist be` parancsot. Ezzel bekapcsolod a fehérlistát. Ha pedig kikapcsolni szeretnéd azt a `/whitelist ki` paranccsal tudod megtenni.
-2- Ezek után ha valakit hozzá szeretnél adni a fehérlistára, akkor azta `/whitelist add <felhasználó_ID>`* parancs segítségével tudod megtenni. 
+2- Ezek után ha valakit hozzá szeretnél adni a fehérlistára, akkor azta `/whitelist add <felhasználó_ID>`* parancs segítségével tudod megtenni. <br>
 Ha valakit le szeretnél venni róla, akkor azt pedig a `/whitelist remove <felhasználó_ID>` parancs segítségével tudod<br><br>
 
 ## 🔔Jogosultságok a parancs futtatásához
