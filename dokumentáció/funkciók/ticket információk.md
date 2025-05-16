@@ -26,7 +26,7 @@ Ne aggódj, ha később még adnál hozzá kategóriát, akkor nem kell újra be
   - /editticketcategory ~ **Adminisztrátor** jogosultság szükséges
 
 ## 🤖Bot számára szükséges jogok a ticket müködéséhez
-  - Adminisztrátor
+  - Adminisztrátor!
   - Ha a bot nem kap admin jogot, sajnos nem fogja tudni magát hozzáadni a ticket csatornákhoz, és így nem fog müködni az egész.
 
 ## 📁Tárolt adatok
