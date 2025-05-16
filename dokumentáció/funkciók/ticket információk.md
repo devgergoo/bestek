@@ -1,6 +1,6 @@
 # 📘Bot Dokumentáció <br>
 Itt olvashatsz a bot dokumentációiról. Azon belül is a jegyrendszerről.<br>
-## 📊Ticket felépítése<br>
+## 🎫Ticket felépítése<br>
 Mint tudjuk a ticket rendszer egy fontos tulajdonság a discord szervereken. Ezért is igyekeztem egy minél jobb, fejlettebb rendszert elhozni. 
 A jelenlegi ticket rendszerünk úgy müködik hogy külön kategóriákat állíthatsz be a ticketeknek. Minden ticket kategóriát sajátos módon tudsz konfigurálni: betudod állítani milyen rang férjen hozzá az adott kategóriához,
 pingeljen-e valakit(ha igen, milyen rangot). Ez előny lehet sok esetben is, pl partnerkedés kategóriában beállíthatod hogy a partner managerek lássák az abban a kategóriába létrehozott ticketeket, így ők tudják kezelni azt.
