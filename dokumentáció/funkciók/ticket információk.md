@@ -8,6 +8,8 @@ A felhasználók szabadon tudnak választani, hogy melyik kategóriában hozzák
 Ezért lett kitalálva az archiválás lehetőség is! Szabadon állíthatsz egy olyan csatornát ahova a bot opciónálisan tudja logolni a ticketeket. Ezt egy TXT fájlba fogja megtenni, azonban fontos hogy a ticket bezárása előtt,
 meg kell nyomni az Archiválás gombot. Sőt, ha később szeretnél egy ticket kategóriát szerkeszteni azt is simán megtudod csinálni, anélkül hogy törölnöd, majd újra létre kellene hoznod a kategóriát. Ezen kívül 
 még azt is be tudod állítani, hogy a bot melyik kategóriába hozza létre a ticket csatornákat.<br><br>
+![image](https://github.com/user-attachments/assets/019b0343-b5c6-4ea7-83ba-6c9dde53328e)
+<br>
 
 ## 🛠Ticket Konfigurálása
 1- Elsőnek létre kell hozd a kategóriákat amelyeket szeretnél a ticketben használni, és létre kell hozd a `/addticketcategory <név> <ping> <pingelt_rang> <hozzáférhető_randok> <emoji>` parancs segítségével.<br>
