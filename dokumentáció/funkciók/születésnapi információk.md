@@ -15,6 +15,6 @@ Ennek a rendszernek a lényege elég szimpla. A születésnapodon felköszönt a
 
 ## 📁Tárolt adatok
   - A bot **CSAK** a születési hónapod, és a napot menti el. Az évet tárolja.(Bármilyen évet beírhatsz a parancsnál, a hónap és a nap ami számít)
-  - Ha a bot eltávolításra kerül a szerverről, és be van állítva a születésnapod az adatok nem törlődnek, tehát úgyan úgy fel fog köszönteni
+  - Ha a bot eltávolításra kerül a szerverről, és be van állítva a születésnapod az adatok nem törlődnek, tehát úgyan úgy fel fog köszönteni.
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.** Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
