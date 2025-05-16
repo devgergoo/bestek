@@ -9,7 +9,7 @@ Ennek a rendszernek a lényege elég szimpla. A születésnapodon felköszönt a
   - /setbirthday ~ nincs szükséges jogosultság
   - /birthday ~ nincs szükséges jogosultság
 
-## 🤖Bot számára szükséges jogok a szintrendszer müködéséhez
+## 🤖Bot számára szükséges jogok a születésnapi rendszer müködéséhez
   - A botnak semmilyen jogra nincs szüksége a szerveren ahol a parancs lefut.
   - Az viszont fontos, hogy legyenek engedélyezve SZÁMODRA a privát üzenetek fogadása, hiszen ott fog majd a bot írni.
 
