@@ -8,7 +8,7 @@ Természetesen hozzá tudsz adni embereket ehhez a fehérlistáról, így ők k�
 ## 🛠Fehérlista Konfigurálása
 1- A fehérlista konfigurálása elég egyszerű, az első lépéshez be kell írd a `/whitelist be` parancsot. Ezzel bekapcsolod a fehérlistát. Ha pedig kikapcsolni szeretnéd azt a `/whitelist ki` paranccsal tudod megtenni.
 2- Ezek után ha valakit hozzá szeretnél adni a fehérlistára, akkor azta `/whitelist add <felhasználó_ID>`* parancs segítségével tudod megtenni. <br>
-Ha valakit le szeretnél venni róla, akkor azt pedig a `/whitelist remove <felhasználó_ID>` parancs segítségével tudod<br><br>
+Ha valakit le szeretnél venni róla, akkor azt pedig a `/whitelist remove <felhasználó_ID>` parancs segítségével tudod.<br><br>
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /whitelist be ~ **Adminisztrátor** jogosultság szükséges
