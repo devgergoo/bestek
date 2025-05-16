@@ -1,6 +1,6 @@
 # 📘Bot Dokumentáció <br>
 Itt olvashatsz a bot dokumentációiról. Azon belül is a fehérlistáról(whitelist).<br>
-## 📊Fehérlista felépítése<br>
+## 📑Fehérlista felépítése<br>
 A fehérlista egy olyan funkció amely lezárja a szervered, és senkit nem enged csatlakozni. Ez pl akkor lehet hasznos, ha szerver átalakitáson megy át, stb... 
 Természetesen hozzá tudsz adni embereket ehhez a fehérlistáról, így ők képesek lesznek belépni a szerverre, mivel őket nem fogja a bot eltávolítani aszerverről.<br>
 ![image](https://github.com/user-attachments/assets/988a2330-c585-47c8-b584-75b868a98e00)
