@@ -8,7 +8,7 @@ Rajtuk kívül mindenki üzeneteit szűri, és ha linket érzékel egyből eltá
 <br>
 
 ## 🛠Antilink Konfigurálása
-1- Az egészet a /antilink <Engedélyez/Letilt> paranccsal tudod kezelni.
+1- Az egészet a `/antilink <Engedélyez/Letilt>` paranccsal tudod kezelni.
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /antilink ~ **Adminisztrátor** jogosultság szükséges
