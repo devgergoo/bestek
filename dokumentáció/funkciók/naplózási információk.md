@@ -2,8 +2,7 @@
 Itt olvashatsz a bot dokumentációiról. Azon belül is a log rendszerünkről.<br>
 ## 🔭Log felépítése<br>
 A naplózási rendszerünk jelenleg még kissé alap szinten van. Elég sok dolgot naplóz már, de ezt még mindenképp szeretném bővíteni a jövőben. Ezen kívül úgy müködik mint egy átlagos log rendszer.
-Annyi extra dologgal rendelkezik, hogy 24 óránként csinál egy teljes összegző jelentést. Ebben a jelentésben kiírja a 24 óra elmúlt eseményeit.(tagok csatlakozása, törölt üzenetek, csatorna törlések, csatorna létrehozások,
-kitiltások, figyelmeztetések, nickváltozások, rangváltozások, üzenet szerkesztések)
+Annyi extra dologgal rendelkezik, hogy 24 óránként csinál egy teljes összegző jelentést. Ebben a jelentésben kiírja a 24 óra elmúlt eseményeit.(tagok csatlakozása, törölt üzenetek, csatorna törlések, csatorna létrehozások,kitiltások, figyelmeztetések, nickváltozások, rangváltozások, üzenet szerkesztések) <br>
 ![image](https://github.com/user-attachments/assets/59702734-b476-48bd-8ba1-9a62b00ab345) <br>
 ![image](https://github.com/user-attachments/assets/9627a515-5af7-4996-b5b4-f805f2e1bc53)<br>
 
