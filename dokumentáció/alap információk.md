@@ -39,7 +39,7 @@ A bot másik kiemelt célja, hogy minél több szerveren jelen lehessen, és eze
 
   - ❌Fejlett antinuke<br>
     ˇSzabadon állítható antinuke rendszer.<br>
-    ˇHa a bot 2 perc alatt 5 új csatlakozást észlel bekapcsol az antinuke mód. Ez 10 percig zárolja a szervert és nem fog beengedni új felhasználót.<br>
+    ˇHa a bot 2 perc alatt 10 új csatlakozást észlel bekapcsol az antinuke mód. Ez 10 percig zárolja a szervert és nem fog beengedni új felhasználót.<br>
     ˇHa megtörténik a nuke, és lezárul a szerver arról a szerver tulaj értesítést kap a bottól, illetve aki belépne a szerverre az is értesülni fog a támadásról.<br>
   --------------------------------------------------------------------------------
 
