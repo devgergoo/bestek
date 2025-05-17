@@ -7,9 +7,9 @@ Az antikáromkodás rendszerünk fejletten védi a szervered. A legtöbb magyar 
 <br>
 
 ## 🛠Antikáromkodás Konfigurálása
-1- Elsőnek is a /antikáromkodás <Bekapcsol/Letilt> parancs segítségével tudod kezelni hogy ki/be legyen kapcsolva a rendszer.
-2- Ezek után ha szeretnél kivételt hozzáadni, azt a /antikáromkodáskivétel <Hozzáadás/Eltávolítás> parancs segítségével tudod. Itt ki kell válaszd, hogy embert vagy rangot szeretnél hozzáadni.
-3- Megnézni a kivételek listáját pedig a /antikáromkodáskivételek paranccsal tudod.
+1- Elsőnek is a `/antikáromkodás <Bekapcsol/Letilt>` parancs segítségével tudod kezelni hogy ki/be legyen kapcsolva a rendszer.
+2- Ezek után ha szeretnél kivételt hozzáadni, azt a /antikáromkodáskivétel `<Hozzáadás/Eltávolítás>` parancs segítségével tudod. Itt ki kell válaszd, hogy embert vagy rangot szeretnél hozzáadni.
+3- Megnézni a kivételek listáját pedig a `/antikáromkodáskivételek` paranccsal tudod.
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /antikáromkodás ~ **Adminisztrátor** jogosultság szükséges
