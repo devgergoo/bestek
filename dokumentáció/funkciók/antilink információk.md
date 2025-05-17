@@ -16,3 +16,10 @@ Rajtuk kívül mindenki üzeneteit szűri, és ha linket érzékel egyből eltá
 ## 🤖Bot számára szükséges jogok a szintrendszer müködéséhez
   - (Ajánlott jogosultság az **adminisztrátor**.)
   - Üzenetek kezelése
+
+## 📁Tárolt adatok
+  - Ha nincs beállítva az antilink akkor addig semmit nem tárol.
+  - Ha beállítod az antilinket, akkor a szerver ID mentésre kerül.
+
+**Ezek az adatok kérésre bármikor eltávolíthatók.**
+Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
