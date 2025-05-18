@@ -11,7 +11,7 @@ Az üdvözlő és távozó rendszerünk jelenleg egy kezdő állapotában van cs
 
 ## 🛠Üdvözló-Távozó Konfigurálása
 1- Elsőként a `/welcome <státusz> <csatorna>` illetve a `/bye <státusz> <csatorna>` parancsokat kell kiadnod, ezzel kapcsolod be a rendszert. <br>
-2- Ha ez megvan, megy is minden. Kikapcsoláshoz pedig szintén ezeket a parancsokat kell használd, csaka státuszba mást kell írnod.
+2- Ha ez megvan, megy is minden. Kikapcsoláshoz pedig szintén ezeket a parancsokat kell használd, csak a státuszba mást kell írnod.
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /welcome ~ **Adminisztrátor** jogosultság szükséges
