@@ -1,7 +1,7 @@
 # 📘Bot Dokumentáció <br>
 Itt olvashatsz a bot dokumentációiról. Azon belül is a nyereményjátékról.<br>
 ## 🎉Nyereményjáték felépítése<br>
-A nyereményjátékok egy igazán jó lehetőség hogy feldobjuk a szerverünket. Épp ezért nem mindegy hogy hogy is néz ki! Próbáltam minél letisztultabb, jól kinéző nyereményjáték rendszert létrehozni, hogy konfortos legyen 
+A nyereményjátékok egy igazán jó lehetőség hogy feldobjuk a szerverünket. Épp ezért nem mindegy hogy hogy is néz ki! Próbáltam minél letisztultabb, jól kinéző nyereményjáték rendszert létrehozni, hogy komfortos legyen 
 kezelni, és egyben résztvenni is rajta. Ennek köszönhetően saját magadnak tudod megadni a nyereményjáték cimét, és a leirását is, valamint még a nyertesek számát is tudod állítani, mind eztegy felugró menüben!<br>
 
 ![image](https://github.com/user-attachments/assets/b1563fb2-4622-4a02-ac8b-71219b4bbb4c)
