@@ -3,7 +3,7 @@ Itt olvashatsz a bot dokumentációiról. Azon belül is a szintrendszerről.<br
 ## 📊Szintrendszer felépítése<br>
 A szintrendszer úgy müködik hogy minden 30 másodpercenként elküldött üzenet után random 5 és 11 közötti xp jár. Minden szinthez 100-al több xp kell. Tehát az első szinthez 100 xp, a második szinthez 200 xp, stb szükséges.
 Minden szintlépésnél elveszted az addig gyüjtött xp-t. Tehát ha szintet lépsz, és pl 2. szintű leszel, akkor ismételten 0 xp-ről indulsz.<br><br>
-Szintek társuló xp szükségletek:<br>
+Szintekhez társuló xp szükségletek:<br>
 | Szint | Szükséges XP | Kiinduló XP |
 |:-------:|:--------------:|:-------------:|
 | 1     | 100          | 0           |
