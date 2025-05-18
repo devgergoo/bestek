@@ -57,7 +57,7 @@ A bot másik kiemelt célja, hogy minél több szerveren jelen lehessen, és eze
   - 🎲Szerencsejáték.<br>
     ˇJelenleg elérhető blackjack és slots játékok.<br>
     ˇA slots játékban érméket nyerhetsz, amelyhez globális toplista is tartozik.<br>
-    ˇEgy elég alap bolt funkci is található benne.<br>
+    ˇEgy elég alap bolt funkció is található benne.<br>
   --------------------------------------------------------------------------------
 
   - 🧧Naplózási(log) rendszer.<br>
