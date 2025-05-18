@@ -12,7 +12,7 @@ még azt is be tudod állítani, hogy a bot melyik kategóriába hozza létre a 
 <br>
 
 ## 🛠Ticket Konfigurálása
-1- Elsőnek létre kell hozd a kategóriákat amelyeket szeretnél a ticketben használni, és létre kell hozd a `/addticketcategory <név> <ping> <pingelt_rang> <hozzáférhető_randok> <emoji>` parancs segítségével.<br>
+1- Elsőnek létre kell hozd a kategóriákat amelyeket szeretnél a ticketben használni, ezt a `/addticketcategory <név> <ping> <pingelt_rang> <hozzáférhető_randok> <emoji>` parancs segítségével tudod megtenni.<br>
 2- Ha ezzel megvagy, létre kell hoznod melyik csatornába szeretnéd elküldeni a ticket panelt, ahol a ticket kategóriákból lehet választani. Ezt a `/setticketmessage <csatorna>` paranccsal tudod megcsinálni. 
 Ne aggódj, ha később még adnál hozzá kategóriát, akkor nem kell újra beírd ezt a parancsot, mert a panel frissíti magát egyből.<br>
 3- Állítsd be egy log csatornát, amelyet csak a vezetőség lát. Ide fogja majd a bot küldeni az archivált ticket fájlokat. Ezt a `/setticketarchive <csatorna>` paranccsal tudod megcsinálni.<br>
