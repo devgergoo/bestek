@@ -2,13 +2,15 @@
 Itt olvashatsz a bot dokumentációiról. Azon belül is az antilinkről.<br>
 ## ⛔Antilink felépítése<br>
 Téged is zavarnak a folyamatos hirdetők? A scam linkek? és még sorolhatnám... Az antilink ebben az esetben megoldja a pronlémád, mert ez minden linket letilt! Egyedül az adminisztrátoroknak engedélyezi a linkek küldését.
-Rajtuk kívül mindenki üzeneteit szűri, és ha linket érzékel egyből eltávolításra kerül. Jelenleg ehhez még kivételeket nem lehet adni, de hamarosan az is lesz.<br>
+Rajtuk kívül mindenki üzeneteit szűri, és ha linket érzékel egyből eltávolításra kerül(kivéve gif esetén). Jelenleg ehhez még kivételeket nem lehet adni, de hamarosan az is lesz.<br>
 
 ![image](https://github.com/user-attachments/assets/62b3b7c5-c0d4-42c7-a40f-eaae5d13b91e)
 <br>
 
 ## 🛠Antilink Konfigurálása
-1- Az egészet a `/antilink <Engedélyez/Letilt>` paranccsal tudod kezelni.
+1- Az egészet a `/antilink <Engedélyez/Letilt>` paranccsal tudod kezelni. <br>
+2- Ezek után ha szeretnél kivételt hozzáadni, azt a `/antilinkkivétel <Hozzáadás/Eltávolítás>` parancs segítségével tudod. Itt ki kell válaszd, hogy embert, rangot vagy csatornát szeretnél hozzáadni. <br>
+3- Megnézni a kivételek listáját pedig a `/antilinkkivételek` paranccsal tudod. <br>
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /antilink ~ **Adminisztrátor** jogosultság szükséges
