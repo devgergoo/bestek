@@ -1,10 +1,9 @@
 # ‼Felhasználási Feltétetelek
 
 ## 🔎Meghívás és kirúgás log
-Amikor a botot egy új szerverre beléptetik, akkor erről egy meghívó üzenet készül. Ezt csak a bot tulajdonosa látja, és ez titkos információ. 
-Ezen kívül még logolásra kerül a szerver neve, szerver ID, tulajdonos neve, tulajdonos ID, és a tagok száma. 
+Amikor a botot egy új szerverre beléptetik, akkor, logolásra kerül a szerver neve, szerver ID, tulajdonos neve, tulajdonos ID, és a tagok száma. 
 Tehát semmi fontosabb információt nem logol a bot, de ezek is titkosítva vannak. 
-Amikor a botot kirúgják egy szerverről, ismét ez történik, csak akkor mér nem hoz létre meghívót.<br>
+Amikor a botot kirúgják egy szerverről, ismét ez történik.<br>
 Ez egy biztonsági intézkedés. Így elkerülhető a bot szervereinek a botolása, és az esetleg visszaélések a bottal. <br>
 
 ## 🔎Parancsok logolása
