@@ -10,12 +10,10 @@ a szervert, akkor egyből értesítést is küld privát üzenetben a szerver tu
 (Mivel még nem történt a sima bottal nuke riasztás, ezért csak a teszt bottal tudok képet csatolni. Ettől függetlenül úgyan így müködik.)
 
 ## 🛠Antinuke Konfigurálása
-1- Az antinuke rendszert a `/antinuke <True/False>` parancs segítségével tudod kezelni. Itt tudod ki és be kapcsolni. <br>
-2- A `/antinukestatus` parancs segítségével pedig ellenőrizheted az antinuke állapotát.
+1- Az antnuke a szervervédelem egyik funkciója, a **/serverprotection** parancs menün belül az **"Antinuke"** feliratú funkciónál tudod konfigurálni.
 
 ## 🔔Jogosultságok a parancs futtatásához
-  - /antinuke ~ **Adminisztrátor** jogosultság szükséges
-  - /antinukestatus ~ **Adminisztrátor** jogosultság szükséges
+  - /serverprotection ~ **Adminisztrátor** jogosultság szükséges
 
 ## 🤖Bot számára szükséges jogok a szintrendszer müködéséhez
   - (Ajánlott jogosultság az **adminisztrátor**.)
@@ -23,7 +21,6 @@ a szervert, akkor egyből értesítést is küld privát üzenetben a szerver tu
   - Az viszont fontos, hogy legyenek engedélyezve a szerver tulajának a privát üzenetek fogadása, hiszen ott fog majd a bot írni.
 
 ## 📁Tárolt adatok
-  - Ha nincs beállítva az antinuke rendszer akkor addig semmit nem tárol.
   - Ha beállítod, akkor a szerver ID kerül tárolásra.
   - Ezen kívül a csatlakozások száma fog mentésre kerülni, hogy a bot számon tudja követni őket. Minden 2 percenként ezt az adatot törli.
 
