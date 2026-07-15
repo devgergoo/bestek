@@ -26,7 +26,7 @@ A Bestek bot rendelkezik prémium előfizetéssel. Itt láthatod, hogy erre a fu
 ## 📁Tárolt adatok
   - Ha nincs beállítva az antikáromkodás akkor addig semmit nem tárol.
   - Ha bekapcsolod, akkor a szerver ID kerül tárolásra, illetve maga az hogy be van kapcsolva.
-  - Ha kivételeteket adsz hozzá akkor a hozzáadott rang ID kerül eltárolásra, vagy a hozzáadott felhasználó ID (Attól függ mit adsz hozzá)
+  - Ha kivételeteket adsz hozzá akkor a hozzáadott rang, kategória, csatorna vagy felhasználó ID kerül mentésre. (Attól függ mit adsz hozzá)
   - Ha hozzáadsz prémium funkcióként szót, akkor az a szó, és a szerver ID tárolásra kerül.
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.**
