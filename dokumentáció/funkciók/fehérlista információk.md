@@ -21,10 +21,8 @@ Ha valakit le szeretnél venni róla, akkor azt pedig a `/whitelist remove <felh
   - Felhasználók kirúgása
 
 ## 📁Tárolt adatok
-  - Ha nincs beállítva a fehérlista akkor addig semmit nem tárol.
   - Ha konfigurálod a fehérlistát, a szerver ID és a beállított felhasználó ID-ját is elmenti. Ő egyből hozzáadásra kerül a fehérlistához.
   - Ezen kívül minden hozzáadott felhasználó ID mentésre kerül. Ha bárki eltávolításra kerül a fehérlistáról, az az adatbázisból is eltávolístára kerül.
-  - Ha a bot eltávolításra kerül a szerverről, de be volt kapcsolva a fehérlista az adatok nem törlődnek.
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.**
 Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
