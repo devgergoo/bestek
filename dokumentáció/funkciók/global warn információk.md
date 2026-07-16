@@ -1,9 +1,9 @@
 # 📘Bot Dokumentáció <br>
-Itt olvashatsz a bot dokumentációiról. Azon belül is a global warn rendszerünkről..<br>
-## ⚠Global Warn felépítése<br>
+Itt olvashatsz a bot dokumentációiról. Azon belül is a global warn/ban rendszerünkről..<br>
+## ⚠Global Warn / Ban felépítése<br>
 Ez a rendszer a szerverek védelmének megerősítését szolgálja.
 A listára olyan felhasználók kerülnek fel, akik valamilyen módon már megsértették a Discord szabályait (például gyanús vagy csaló linkeket küldtek), de még nem kerültek kitiltásra.
-Amennyiben egy ilyen felhasználó belép a szerveretekre, a bot privát üzenetben értesíti a szerver tulajdonosát, így időben tudtok reagálni és megelőzni a problémákat.
+Amennyiben egy ilyen felhasználó belép a szerveretekre, a bot privát üzenetben értesíti a szerver tulajdonosát, vagy kitiltja a felhasználót. (Attól függ, hogy a warn, vagy a ban van bekapcsolva.)
 
 ![image](https://github.com/user-attachments/assets/3a4802c3-1295-4713-b467-d2eca970a3fe)<br>
 **Az alábbi kép csak illusztráció egy tesztből kivéve. A képen látható felhasználó NEM szerepel a listán, és hozzájárult hogy példaként kikerüljön.**
@@ -28,18 +28,19 @@ Mások csatlakozása egyből elutasításra kerül.<br>
 
 ## 🛠Global Warn Konfigurálása
 1- Ha behívod a botot, a rendszer automatikusan bekapcsolódik. <br>
-2- Ezen kívül az állapotát a `/globalwarnconfig <állapot>` tudod állítani. <br>
-3- A `/globalwarncheck <@felhasználó>` paranccsal ellenőrizni is tudod, hogy valaki rajta van-e a listán, vagy nem. <br>
+2- Ezen kívül az állapotát a `/globalsettings` tudod állítani. <br>
 
 ## 🔔Jogosultságok a parancs futtatásához
-  - /globalwarnconfig ~ **Adminisztrátor** jogosultság szükséges
+  - /globalsettings ~ **Adminisztrátor** jogosultság szükséges
   - /globalwarncheck ~ nincs szükséges jogosultság
 
 ## 🤖Bot számára szükséges jogok a global warn müködéséhez
-  - Nincs szükséged jog, de a szerver tulajdonosának fogadnia kell privát üzenetet, hogy a bot tudja értesíteni őt.
+  - Felhasználók kitiltása.
+  - Fontos! A szerver tulaja fogadjon privátba üzeneteket.
 
 ## 📁Tárolt adatok
   - A szerver ID kerül csak mentésre.
+  - A listán lévő felhasználók számára az alábbi adatok kerülnek mentésre: felhasználó ID, dátum, indok, bizonyítékok.
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.**
 Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
