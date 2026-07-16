@@ -22,6 +22,5 @@ Az üdvözlő és távozó rendszerünk jelenleg egy kezdő állapotában van cs
   - Üzenetek küldése a beállított csatornákon
 
 ## 📁Tárolt adatok
-  - Ha nincs beállítva az üdvözlő-távozó rendszer akkor addig semmit nem tárol.
   - Ha beállítod akkor a szerver ID, az üdvözlő csatorna ID, a távozó csatorna ID tárolásra kerül.
   - **SEMMILYEN** csatlakozó, távozó felhasználói adat nem kerül tárolásra.
