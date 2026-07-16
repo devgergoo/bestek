@@ -1,27 +1,24 @@
 # 📘Bot Dokumentáció <br>
 Itt olvashatsz a bot dokumentációiról. Azon belül is a log rendszerünkről.<br>
 ## 🔭Log felépítése<br>
-A naplózási rendszerünk jelenleg még kissé alap szinten van. Elég sok dolgot naplóz már, de ezt még mindenképp szeretném bővíteni a jövőben. Ezen kívül úgy müködik mint egy átlagos log rendszer.
-Annyi extra dologgal rendelkezik, hogy 24 óránként csinál egy teljes összegző jelentést. Ebben a jelentésben kiírja a 24 óra elmúlt eseményeit.(tagok csatlakozása, törölt üzenetek, csatorna törlések, csatorna létrehozások,kitiltások, figyelmeztetések, nickváltozások, rangváltozások, üzenet szerkesztések) <br>
-![image](https://github.com/user-attachments/assets/59702734-b476-48bd-8ba1-9a62b00ab345) <br>
-![image](https://github.com/user-attachments/assets/9627a515-5af7-4996-b5b4-f805f2e1bc53)<br>
+A naplózási rendszerünk fejlett dizájnnal, és sokoldalú üzenetekkel dobja fel a szervered. A log rendszer webhook alapú. Valamint még kis extra dologgal rendelkezik, hogy 24 óránként csinál egy teljes összegző jelentést. Ebben a jelentésben kiírja a 24 óra elmúlt eseményeit.(tagok csatlakozása, törölt üzenetek, csatorna törlések, csatorna létrehozások,kitiltások, figyelmeztetések, nickváltozások, rangváltozások, üzenet szerkesztések) <br>
+<img width="360" height="539" alt="image" src="https://github.com/user-attachments/assets/e82a0189-f690-4045-9bd1-3f3f412d34f4" />
+<br>
+<img width="472" height="262" alt="image" src="https://github.com/user-attachments/assets/9f4f57f4-e725-4242-9345-e2797c7fd451" />
+<br>
 
 ## 🛠Log Konfigurálása
-1- A log csatornát a `/setlog <csatorna>` paranccsal tudod beállítani.<br>
-2- A log csatornát a `/disablelog` paranccsal tudod kikapcsolni
+1- A log csatornát, a /log parancs segítségével tudod kezelni. Itt tudod beállítani, és kikapcsolni is.
 
 ## 🔔Jogosultságok a parancs futtatásához
-  - /setlog ~ **Adminisztrátor** jogosultság szükséges
-  - /disablelog ~ **Adminisztrátor** jogosultság szükséges
+  - /log ~ **Adminisztrátor** jogosultság szükséges
 
 ## 🤖Bot számára szükséges jogok a szintrendszer müködéséhez
   - (Ajánlott jogosultság az **adminisztrátor**.)
-  - Csatornák megtekintése
-  - Üzenetek küldése
+  - Vizsgálati napló megtekintése
 
 ## 📁Tárolt adatok
-  - Ha nincs beállítva a log rendszer akkor addig semmit nem tárol.
-  - Ha bekapcsolod a log rendszert akkor a szerver ID kerül tárolásra.
+  - Ha bekapcsolod a log rendszert akkor a szerver ID, valamint a választott csatorna ID kerül tárolásra.
 
 **Ezek az adatok kérésre bármikor eltávolíthatók.**
 Ez ügyben kérlek keress fel engem discordon, vagy pedig hozz létre egy ticketet a support szerveren.
