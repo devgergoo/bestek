@@ -2,7 +2,7 @@
 Itt olvashatsz a bot dokumentációiról. Azon belül is a reactrole rendszerünkről.<br>
 ## 💗Reactrole felépítése<br>
 A reactrole rendszer elég egyszerűen müködik, ha reagálsz egy emojival, akkor megkapod a hozzá társított rangot. Nálunk saját címet is beállíthatsz a reactrolehoz.
-Jelenleg elég kezdetleges ez a parancs, a jövőben biztosan új reactrole várható.
+Jelenleg elég kezdetleges ez a parancs, a jövőben biztosan új reactrole várható!
 ## 🛠Reactrole Konfigurálása
 1- A `/reactrole emoji1 rang1,emoji2 rang2,emoji3 rang3` parancs segítségével tudod beállítani a reactrole-t.
 2- Fontos figyelni a szóközökre! Nagyon érzékeny rá a parancs. Az emoji és a rang között szigorúan csak 1 szóköz legyen, és a vessző(,) és az új emoji között **NE** legyen szóköz. 
