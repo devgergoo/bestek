@@ -11,7 +11,7 @@ is megtalálható benne.
 
 
 ## 🛠Szerencsejáték Konfigurálása
-1- A szerencsejátékos parancsokat nem kell konfigurálnod, azok bárhol elérhetőek. 
+1- A szerencsejátékos parancsokat nem kell konfigurálnod, azok bárhol elérhetőek.
 
 ## 🔔Jogosultságok a parancs futtatásához
   - /blackjack ~ nincs szükséges jogosultság
